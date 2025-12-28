@@ -1,1 +1,3 @@
-# klasifikasi-emosi-video-audio
+# Klasifikasi Emosi
+
+Klasifikasi emosi yang tersimpan dalam video pendek.
